@@ -1,0 +1,49 @@
+{
+  "keys":
+  {
+    "Facebook":
+    {
+      "access_token": "EAAHZCIq2vl0cBALMrIrBUZCgFbWDvbcRWT8ZCzM4h4uiob6ew94ROS30nOX43tOMn9hhGU7fo3fB5WtVCzqX39QNsAkAHzdYBe15JCzVE7xwL89UEF21wmrjmPi9EwuXFIelEY9gr9ERzwhR7Xa3dr62DD9WXcRXrWiQZCubMjZB63SngdR22kA28ioC9FRMZD"
+    },
+
+    "LinkedIn":
+    {
+      "consumer_key": "81gstq323k89dc",
+      "consumer_secret": "tEb2D05YHgefluEs",
+      "code": "AQTL_jmEG7PyL8ULY4kqeGpRV02l66oQlLo_ep24YKTIDSNCCOUaGYTB97VsyPbrd9_3obuntVwPtlo-LJHDD7OEdJ3ipbRC1U5qAXIHvv5SZ-5554IMqrgJKOvqJgsihsrTepSEItqXoxvBepL7kkDP9LSRMrLQgT-cy477r-Kzmx0dch05cWZas-0r1w",
+      "access_token": "AQV5t4k2JZX2uBplBpZaxIz0W6-2MWCVA4_ivIyJtjrOeMpsme_X41HOF4jF-Y5T3lDRuQhBHAmVSCThPwRzX775-VsnogRuWaEfgoImaI0EiOi0cYfi_oKHhCMzzZ_avlvoBWloMguaetHFYA3QH7Vjewl7n8PLlEfLyHEecixOhvsbd2Ekv-WbbTDE6qIGApc2IeFHQJHv2VjPwYXM29bkHc-LqmXKSC2OzoRetH6aWakoH7wJTGIWQK0Mc75lu9K8y3FnX1_RV4IDvuAcJqyUqqL33vlZl2MMr76L90evCwlH35mVTXPafgAOzUaqRND0wy73mPATDFGMwWOhEzmLKOXsJQ"
+    },
+
+    
+    "Instagram":
+    {
+      "username": "vidushibindroo",
+      "password": "0cancer7##"
+    }
+  },
+
+  "parameters":
+  {
+    "Facebook":
+    {
+      "page_name": "Vidushi",
+      "since": "2020-01-09"
+    },
+
+    "Instagram":
+    {
+      "username": "vidushibindroo"
+    },
+
+    "LinkedIn":
+    {
+      "company_id": "31116675"
+    },
+
+    
+    "main":
+    {
+      "company_folder": "company"
+    }
+  }
+}
